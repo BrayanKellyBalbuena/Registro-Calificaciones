@@ -1,0 +1,64 @@
+# depslib dependency file v1.0
+1438321923 source:c:\users\dante-esmaily\desktop\registro_de_calificaciones\main.cpp
+	<iostream>
+	"Cola.h"
+	"Ordenador.h"
+	"Buscador.h"
+	"Calculadora.h"
+	"Editor.h"
+
+1438314915 source:c:\users\dante-esmaily\desktop\registro_de_calificaciones\src\estudiante.cpp
+	"Estudiante.h"
+	<iostream>
+	<iomanip>
+	<exception>
+
+1438314915 c:\users\dante-esmaily\desktop\registro_de_calificaciones\include\estudiante.h
+	<string>
+
+1438314798 source:c:\users\dante-esmaily\desktop\registro_de_calificaciones\src\nodo.cpp
+	"Nodo.h"
+
+1438314798 c:\users\dante-esmaily\desktop\registro_de_calificaciones\include\nodo.h
+	<cstdlib>
+
+1438315059 source:c:\users\dante-esmaily\desktop\registro_de_calificaciones\src\cola.cpp
+	"Cola.h"
+	<iostream>
+
+1438315059 c:\users\dante-esmaily\desktop\registro_de_calificaciones\include\cola.h
+	"Nodo.h"
+
+1438320987 source:c:\users\dante-esmaily\desktop\registro_de_calificaciones\src\editor.cpp
+	"Editor.h"
+
+1438315059 c:\users\dante-esmaily\desktop\registro_de_calificaciones\include\editor.h
+	<iostream>
+	<stdexcept>
+	<fstream>
+	<cstdlib>
+	<iomanip>
+	<sstream>
+	"Estudiante.h"
+	"Cola.h"
+
+1438318991 source:c:\users\dante-esmaily\desktop\registro_de_calificaciones\src\buscador.cpp
+	"Buscador.h"
+	<iostream>
+
+1438318760 c:\users\dante-esmaily\desktop\registro_de_calificaciones\include\buscador.h
+
+1438320549 source:c:\users\dante-esmaily\desktop\registro_de_calificaciones\src\calculadora.cpp
+	"Calculadora.h"
+	<iostream>
+
+1438321008 c:\users\dante-esmaily\desktop\registro_de_calificaciones\include\calculadora.h
+	<cstdlib>
+
+1438315468 source:c:\users\dante-esmaily\desktop\registro_de_calificaciones\src\ordenador.cpp
+	"Ordenador.h"
+	<iostream>
+
+1438315468 c:\users\dante-esmaily\desktop\registro_de_calificaciones\include\ordenador.h
+	"Cola.h"
+
