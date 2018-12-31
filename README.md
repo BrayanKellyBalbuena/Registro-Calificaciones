@@ -1,2 +1,4 @@
 # Registro-Calificaciones
-Proyecto Final de la materia Estructura de Datos ITLA
+Final project of the subject Data Structure 
+
+# Instituto Tecnológico de Las Américas (ITLA)
